@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "TEN7 Static Template"
+title: "Static Site Template"
 subtitle: "Version 1.0.0, 00/00/00"
 
 nav:
